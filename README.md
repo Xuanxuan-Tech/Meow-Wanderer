@@ -1,117 +1,217 @@
-# 🗺️ 探索日記 · Explore Diary
+<div align="center">
 
-> 把想去的地方，變成真正的故事
+# 探索日記 · Explore Diary
 
-[![Version](https://img.shields.io/badge/version-1.0.0--rc4-pink?style=flat-square)](https://github.com/)
-[![Platform](https://img.shields.io/badge/platform-Android-lightgrey?style=flat-square)](https://github.com/)
+### *把想去的地方，變成真正的故事*
+
+<br>
+
+<!-- 打賞按鈕 — 將連結替換為你的帳號 -->
+[![Ko-fi](https://img.shields.io/badge/☕%20Ko--fi-請我喝咖啡-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_KOFI_USERNAME)
+&nbsp;&nbsp;
+[![Buy Me a Coffee](https://img.shields.io/badge/🧋%20Buy%20Me%20a%20Coffee-打賞支持-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
+
+<br>
+
+[![Website](https://img.shields.io/badge/🌐%20官方網站-xuanxuan--tech.github.io-8b6f47?style=for-the-badge&logo=github&logoColor=white&labelColor=2c1f0f)](https://xuanxuan-tech.github.io/Meow-Wanderer/)
+&nbsp;
+[![Android](https://img.shields.io/badge/Google%20Play-即將推出-34a853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=YOUR_APP_ID)
+
+<br>
+
+[![Version](https://img.shields.io/badge/版本-v1.0.0--rc4-pink?style=flat-square)](https://github.com/)
+[![Platform](https://img.shields.io/badge/平台-Android-3ddc84?style=flat-square&logo=android&logoColor=white)](https://github.com/)
+[![License](https://img.shields.io/badge/授權-CC%20BY--NC--ND%204.0-blue?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+</div>
+
 ---
 
 ## 📖 這是什麼？
 
 **探索日記** 是一款專為旅遊愛好者設計的 **踩點記錄 App**。
 
-你是否常常在社群媒體上看到心動的餐廳或景點，卻在真正想去的時候找不到？探索日記讓你隨手收藏這些地方，並在真正造訪後留下記錄——讓每一段旅程都有跡可循。
+你是否常在社群媒體上看到心動的餐廳或景點，卻在真正想去的時候找不到？  
+探索日記讓你隨手收藏這些地方，造訪後留下記錄，讓每一段旅程都有跡可循。
+
+🌐 **官方網站**：[https://xuanxuan-tech.github.io/Meow-Wanderer/](https://xuanxuan-tech.github.io/Meow-Wanderer/)
 
 ---
 
-## ✨ 主要功能
+## 📲 下載
 
-### 📍 探索清單
-收藏所有你想去的地方，支援三種顯示模式：
-- **大圖卡片**：以照片為主角，沉浸式瀏覽
-- **緊湊列表（附縮圖）**：一次看完更多地點
-- **純文字列表**：簡潔快速瀏覽
+<div align="center">
 
-每個地點可附上照片、設定分類、輸入地址與備註，並可設定探訪期限。
+[![Google Play](https://img.shields.io/badge/即將上架-Google%20Play-34a853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=YOUR_APP_ID)
 
-### 🗂️ 地點分類
-支援以下分類標籤，讓清單整齊有序：
+*上架後將更新連結*
 
-| 分類 | 說明 |
-|------|------|
-| 🍽️ 美食 | 餐廳、小吃、異國料理 |
-| 📸 景點 | 公園、古蹟、自然風景 |
-| 🛍️ 購物 | 市集、百貨、特色店家 |
-| 🎨 展覽 | 藝文活動、博物館、特展 |
-| ☕ 喜茶 | 咖啡廳、手搖飲、甜點 |
-
-### 🔍 篩選與排序
-透過多維度篩選快速找到想去的地點：
-- 依**分類**篩選（美食、景點、購物…）
-- 依**地區**篩選（北部 / 中部 / 南部 / 東部）
-- 依**評分**篩選
-- 依**距離**篩選
-- 排序方式：最新、評分高低、期限近、距離近
-
-### 🗺️ 地圖導航
-- 所有收藏地點在地圖上一目了然
-- **距離圈功能**：設定 1 / 3 / 5 / 10 km 範圍，快速掌握附近可探索的地方
-- 清單依距離由近到遠排序
-- 支援**街道地圖**與**衛星地圖**切換
-- 一鍵開啟導航前往
-
-### ✅ 踩點打卡
-造訪後標記「完成」，將待探索清單轉化為真實足跡。完成後可留下星級評分，記錄這個地方值不值得再訪。
-
-### 📦 足跡記錄
-所有已完成的踩點地點會保存在「足跡」頁面，記錄地點名稱、地區、評分與造訪時間，隨時翻閱你的旅遊回憶。
-
-### 🏆 踩點成就系統
-探索越多，解鎖越多！共有 **127 個成就徽章**，包含：
-
-- 🌱 **第一步** — 完成你的第一個踩點
-- 📅 **週末戰士** — 在週末完成踩點
-- 🏙️ **在地人** — 在同一地區累積踩點
-- 🧭 **開拓者** — 探索一個全新地區
-- ⭐ **高品味** — 踩點 4.5 星以上的地點
-
-累積踩點經驗值，從「探索新手」一路升級至「城市漫步者」！
-
-### ☁️ 雲端同步
-- 加入**同步群組**，透過同步碼與其他裝置共享資料
-- 一鍵上傳所有地點至雲端備份
-- 隨時下載還原，換手機也不怕資料遺失
-- 資料採 **SECURE STORAGE** 安全儲存
-
-### 📂 資料管理
-- **匯出備份**：將地點、設定與快取一鍵匯出
-- **匯入還原**：自動辨識格式，輕鬆匯入還原
-- 支援清除所有資料（危險操作，無法復原）
+</div>
 
 ---
 
-## 📱 畫面截圖
+## ✨ 功能介紹
 
-| 探索清單（卡片） | 探索清單（列表） | 地圖導航 |
-|:-:|:-:|:-:|
-| 大圖卡片式瀏覽 | 緊湊列表模式 | 地圖 + 距離排序 |
+### 📍 探索清單 — 收藏所有心動地點
 
-| 成就系統 | 足跡記錄 | 雲端同步 |
-|:-:|:-:|:-:|
-| 127 個成就徽章 | 已完成踩點紀錄 | 同步碼備份 |
+三種顯示模式自由切換，找到最舒適的瀏覽方式。
+
+<div align="center">
+
+<img src="img/探索_卡片風格.jpg" width="210" />&nbsp;&nbsp;&nbsp;
+<img src="img/探索_緊湊_有圖.jpg" width="210" />
+
+</div>
+
+<div align="center"><sub>▲ 大圖卡片模式（左）・緊湊列表模式（右）</sub></div>
+
+<br>
+
+支援五大分類標籤：
+
+| 🍽️ 美食 | 📸 景點 | 🛍️ 購物 | 🎨 展覽 | ☕ 喜茶 |
+|:---:|:---:|:---:|:---:|:---:|
+| 餐廳、小吃 | 公園、古蹟 | 市集、百貨 | 藝文活動 | 咖啡廳、甜點 |
+
+---
+
+### ✨ 新增地點 & 篩選條件
+
+隨手記下心動地點，多維度篩選找到今天想去的地方。
+
+<div align="center">
+
+<img src="img/探索_新增功能.jpg" width="210" />&nbsp;&nbsp;&nbsp;
+<img src="img/探索_篩選功能.jpg" width="210" />
+
+</div>
+
+<div align="center"><sub>▲ 新增地點表單（左）・多維篩選條件（右）</sub></div>
+
+<br>
+
+- 📷 附照片、輸入地址、設定探訪期限與備註
+- 🔍 依分類 / 地區（北中南東）/ 評分 / 距離篩選
+- ↕️ 排序：最新、評分高低、期限近、距離近
+
+---
+
+### 🗺️ 地圖導航 — 規劃你的探索路線
+
+<div align="center">
+
+<img src="img/地圖_列表功能.jpg" width="210" />&nbsp;&nbsp;&nbsp;
+<img src="img/地圖設定功能_上方.jpg" width="210" />
+
+</div>
+
+<div align="center"><sub>▲ 地圖列表（距離排序）（左）・距離圈與地圖設定（右）</sub></div>
+
+<br>
+
+- ⭕ 距離圈：1 / 3 / 5 / 10 km 自由設定
+- 🗺️ 街道 / 衛星地圖切換
+- 🧭 一鍵導航前往目的地
+
+---
+
+### 🏆 踩點成就系統 — 越探索越有成就感
+
+共有 **127 個成就徽章**，累積踩點經驗值不斷升級。
+
+<div align="center">
+
+<img src="img/成就系統.jpg" width="210" />
+
+</div>
+
+<div align="center"><sub>▲ 踩點成就面板 — 目前等級：Lv.1 探索新手</sub></div>
+
+<br>
+
+<div align="center">
+
+| 徽章 | 成就名稱 | 解鎖條件 |
+|:----:|:--------:|:--------:|
+| 🌱 | 第一步 | 完成第一個踩點 |
+| 📅 | 週末戰士 | 在週末完成踩點 |
+| 🏙️ | 在地人 | 在同一地區累積踩點 |
+| 🧭 | 開拓者 | 探索一個全新地區 |
+| ⭐ | 高品味 | 踩點 4.5★ 以上地點 |
+
+</div>
+
+---
+
+### 📦 足跡記錄 — 回顧每一段旅程
+
+<div align="center">
+
+<img src="img/足跡_畫面功能.jpg" width="210" />
+
+</div>
+
+<div align="center"><sub>▲ 足跡畫面 — 顯示已完成踩點的地區、評分與時間</sub></div>
+
+---
+
+### ☁️ 雲端同步 & 資料管理
+
+<div align="center">
+
+<img src="img/資料管理功能_上方.jpg" width="210" />&nbsp;&nbsp;&nbsp;
+<img src="img/設定_資料管理功能_下方.jpg" width="210" />
+
+</div>
+
+<div align="center"><sub>▲ 雲端同步設定（左）・匯出匯入備份（右）</sub></div>
+
+<br>
+
+- 🔐 透過**同步碼**加入群組，一鍵上傳 / 下載備份
+- 📦 支援匯出備份（地點 + 設定 + 快取）
+- 📂 自動辨識格式匯入還原
+- 🛡️ 資料採 **SECURE STORAGE** 安全儲存
 
 ---
 
 ## 📋 版本資訊
 
-- **目前版本**：v1.0.0-rc4
-- **平台支援**：Android 14+
-- **儲存模式**：原生模式 / 雲端同步
-- **儲存空間**：本地 10 MB 上限（目前使用 1.8 MB）
+| 項目 | 內容 |
+|------|------|
+| 目前版本 | `v1.0.0-rc4` |
+| 平台支援 | Android |
+| 本地儲存上限 | 10 MB |
 
 ---
 
-## 💬 回饋與支持
+## 🔒 授權聲明
 
-使用上有任何問題或建議，歡迎透過 App 內的管道聯絡我們：
+本專案採用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 授權
 
-- ❓ **使用說明** — 了解如何使用各項功能
-- 💬 **意見回饋** — 告訴我們你的想法
-- ☕ **支持開發** — 請我喝杯咖啡，讓開發繼續下去
+> 未經授權禁止任何形式的商業使用、修改或轉售。
+
+---
+
+## 💬 聯絡與回饋
+
+- 🌐 **官方網站**：[xuanxuan-tech.github.io/Meow-Wanderer](https://xuanxuan-tech.github.io/Meow-Wanderer/)
+- ❓ **使用說明**：App 內「設定 → 使用說明」
+- 💬 **意見回饋**：App 內「設定 → 意見回饋」
+- 🐛 **Bug 回報**：請至 [Issues](https://github.com/xuanxuan-tech/Meow-Wanderer/issues) 提交
 
 ---
 
 <div align="center">
-  <p><i>記錄每一段值得走訪的旅程，讓旅途中的美好不再消逝。</i></p>
-  <p>Made with ❤️ by 探索日記開發團隊</p>
+
+*記錄每一段值得走訪的旅程，讓旅途中的美好不再消逝。*
+
+<br>
+
+Made with ❤️ by **獨立工作室**
+
+<br>
+
+[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 </div>
